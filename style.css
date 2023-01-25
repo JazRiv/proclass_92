@@ -1,0 +1,21 @@
+body{
+    background-image: url("fondo_inicio.jpg");
+}
+
+.login_div1,.login_div2{
+    background: rgb(40, 122, 47);
+    padding: 10px;
+    float: none;
+    border-radius: 50px;
+    border-width:10px;
+    border-style:ridge;
+}
+
+#player1_name,#player2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.h5, h2,h4, h1{
+    color: white;
+}
